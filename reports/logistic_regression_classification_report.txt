@@ -1,0 +1,12 @@
+                               precision    recall  f1-score   support
+
+       Crimes against Persons       0.17      0.79      0.29        68
+  Crimes against Public Order       0.57      0.50      0.53       542
+Fraud and White-Collar Crimes       0.80      0.88      0.84       406
+                 Other Crimes       0.09      0.65      0.17        54
+              Property Crimes       0.97      0.90      0.93      3498
+               Violent Crimes       0.78      0.65      0.71      1429
+
+                     accuracy                           0.79      5997
+                    macro avg       0.57      0.73      0.58      5997
+                 weighted avg       0.86      0.79      0.82      5997

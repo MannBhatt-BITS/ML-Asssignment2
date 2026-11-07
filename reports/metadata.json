@@ -1,0 +1,14 @@
+{
+  "classes": [
+    "Crimes against Persons",
+    "Crimes against Public Order",
+    "Fraud and White-Collar Crimes",
+    "Other Crimes",
+    "Property Crimes",
+    "Violent Crimes"
+  ],
+  "training_rows": 13990,
+  "test_rows": 5997,
+  "random_state": 42,
+  "evaluation": "macro averaging; OvR AUC calculated from probabilities or decision scores"
+}
