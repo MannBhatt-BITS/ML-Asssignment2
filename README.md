@@ -46,10 +46,10 @@ Results on the common stratified holdout (macro metrics; AUC is macro OvR):
 **Winner:** linear SVM by macro F1. Results depend on the split and feature engineering and should not be presented as a prospective crime forecast.
 
 ## GitHub repository
-Add your own repository URL after publishing.
+https://github.com/MannBhatt-BITS/ML-Asssignment2
 
 ## Live Streamlit app
-Add your own Streamlit Community Cloud URL after deploying (`app.py` is the entry point).
+https://mann-bhatt-ml-assignment2.streamlit.app/
 
 ## Limitations
 The dataset is imbalanced, rare classes have few examples, and some descriptors are recorded after investigation. Results do not establish causal factors or prospective predictive utility. Random splitting may overestimate generalization to later time periods.
